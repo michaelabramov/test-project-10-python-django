@@ -7,8 +7,7 @@ colorama==0.4.6
 commonmark==0.9.1
 cryptography==43.0.3
 Django==5.2.8
-environ==1.0
-ggshield==1.45.0
+django-environ
 idna==3.11
 marshmallow==3.18.0
 marshmallow-dataclass==8.5.14
